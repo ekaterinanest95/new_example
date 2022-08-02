@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\example\\new_examples\\Ex001\\Ex001.csproj": {}
+    "D:\\Documents\\education_analytic\\Практика\\Examples\\new_example\\Ex001\\Ex001.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\example\\new_examples\\Ex001\\Ex001.csproj": {
+    "D:\\Documents\\education_analytic\\Практика\\Examples\\new_example\\Ex001\\Ex001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\example\\new_examples\\Ex001\\Ex001.csproj",
+        "projectUniqueName": "D:\\Documents\\education_analytic\\Практика\\Examples\\new_example\\Ex001\\Ex001.csproj",
         "projectName": "Ex001",
-        "projectPath": "D:\\Documents\\example\\new_examples\\Ex001\\Ex001.csproj",
-        "packagesPath": "C:\\Users\\EricMorganWiess\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\example\\new_examples\\Ex001\\obj\\",
+        "projectPath": "D:\\Documents\\education_analytic\\Практика\\Examples\\new_example\\Ex001\\Ex001.csproj",
+        "packagesPath": "C:\\Users\\АлексКэт\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\education_analytic\\Практика\\Examples\\new_example\\Ex001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EricMorganWiess\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\АлексКэт\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
